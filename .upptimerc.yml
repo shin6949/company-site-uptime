@@ -7,6 +7,8 @@ sites:
     url: $HOMEPAGE_URL
     expectedStatusCodes:
       - 200
+      - 300
+      - 301
     maxResponseTime: 5000
   - name: Chatting Service
     url: $CHAT_URL
@@ -17,6 +19,8 @@ sites:
     url: $HUB_SITE_URL
     expectedStatusCodes:
       - 200
+      - 300
+      - 301
     maxResponseTime: 5000
   - name: JAMA Service
     url: $JAMA_SITE_URL
