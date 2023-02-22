@@ -46,6 +46,12 @@ sites:
       - 301
       - 302
     maxResponseTime: 5000
+  - name: FTP Service
+    url: $FTP_URL
+    expectedStatusCodes:
+      - 200
+      - 404
+    maxResponseTime: 5000
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
