@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-page",
     "status": "down",
-    "uptime": "0.58%",
-    "uptimeDay": "0.58%",
-    "uptimeWeek": "0.58%",
-    "uptimeMonth": "0.58%",
-    "uptimeYear": "0.58%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 3
+      "2023-02-22": 11
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 671,
-    "timeWeek": 671,
-    "timeMonth": 671,
-    "timeYear": 671,
+    "time": 681,
+    "timeDay": 681,
+    "timeWeek": 681,
+    "timeMonth": 681,
+    "timeYear": 681,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hub-service",
     "status": "down",
-    "uptime": "1.35%",
-    "uptimeDay": "1.35%",
-    "uptimeWeek": "1.35%",
-    "uptimeMonth": "1.35%",
-    "uptimeYear": "1.35%",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 3
+      "2023-02-22": 11
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jama-service",
     "status": "down",
-    "uptime": "2.04%",
-    "uptimeDay": "2.04%",
-    "uptimeWeek": "2.04%",
-    "uptimeMonth": "2.04%",
-    "uptimeYear": "2.04%",
+    "uptime": "0.56%",
+    "uptimeDay": "0.56%",
+    "uptimeWeek": "0.56%",
+    "uptimeMonth": "0.56%",
+    "uptimeYear": "0.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 3
+      "2023-02-22": 11
     }
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 747,
-    "timeWeek": 747,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "time": 794,
+    "timeDay": 794,
+    "timeWeek": 794,
+    "timeMonth": 794,
+    "timeYear": 794,
     "dailyMinutesDown": {}
   }
 ]
