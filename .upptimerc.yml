@@ -23,16 +23,6 @@ sites:
       - 301
       - 302
     maxResponseTime: 5000
-  - name: JAMA Service
-    url: $JAMA_SITE_URL
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: Retool Service
-    url: $RETOOL_SITE_URL
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
   - name: Docs Service
     url: $DOCS_URL
     expectedStatusCodes:
@@ -46,22 +36,17 @@ sites:
       - 301
       - 302
     maxResponseTime: 5000
-  - name: FTP Service
-    url: $FTP_URL
-    expectedStatusCodes:
-      - 200
-      - 404
-    maxResponseTime: 5000
   - name: Community Service
     url: $COMMUNITY_URL
     expectedStatusCodes:
       - 200
       - 404
     maxResponseTime: 5000
-  - name: Registry Service
-    url: $REGISTRY_URL
+  - name: FTP Service
+    url: $FTP_URL
     expectedStatusCodes:
       - 200
+      - 404
     maxResponseTime: 5000
   - name: OnlyOffice Service
     url: $ONLYOFFICE_URL
@@ -74,6 +59,16 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: Registry Service
+    url: $REGISTRY_URL
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: JAMA Service (TEST)
+    url: $JAMA_SITE_URL
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: OpsHub Service (TEST)
     url: $OPSHUB_URL
     expectedStatusCodes:
@@ -82,19 +77,24 @@ sites:
       - 302
       - 304
     maxResponseTime: 5000
-  - name: CB 21.09 TEST
+  - name: Retool Service (TEST)
+    url: $RETOOL_SITE_URL
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: CB 21.09 (TEST)
     url: $CB_2109_TEST_URL
     expectedStatusCodes:
       - 200
       - 302
     maxResponseTime: 5000
-  - name: CB 22.10 TEST
+  - name: CB 22.10 (TEST)
     url: $CB_2210_TEST_URL
     expectedStatusCodes:
       - 200
       - 302
     maxResponseTime: 5000
-  - name: CB 22.04 TEST
+  - name: CB 22.04 (TEST)
     url: $CB_2204_TEST_URL
     expectedStatusCodes:
       - 200
