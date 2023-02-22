@@ -4,7 +4,7 @@ repo: company-site-uptime # The name of this repository
 
 sites:
   - name: Home Page
-    url: $MAIN_SUTE_URL
+    url: $MAIN_SITE_URL
     expectedStatusCodes:
       - 200
       - 302
