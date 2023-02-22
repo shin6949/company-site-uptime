@@ -74,6 +74,32 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: OpsHub Service (TEST)
+    url: $OPSHUB_URL
+    expectedStatusCodes:
+      - 200
+      - 300
+      - 302
+      - 304
+    maxResponseTime: 5000
+  - name: CB 21.09 TEST
+    url: $CB_2109_TEST_URL
+    expectedStatusCodes:
+      - 200
+      - 302
+    maxResponseTime: 5000
+  - name: CB 22.10 TEST
+    url: $CB_2210_TEST_URL
+    expectedStatusCodes:
+      - 200
+      - 302
+    maxResponseTime: 5000
+  - name: CB 22.04 TEST
+    url: $CB_2204_TEST_URL
+    expectedStatusCodes:
+      - 200
+      - 302
+    maxResponseTime: 5000
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
