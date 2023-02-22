@@ -21,6 +21,7 @@ sites:
       - 200
       - 300
       - 301
+      - 302
     maxResponseTime: 5000
   - name: JAMA Service
     url: $JAMA_SITE_URL
