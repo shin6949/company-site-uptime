@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-page",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hub-service",
     "status": "up",
-    "uptime": "1.45%",
-    "uptimeDay": "1.45%",
-    "uptimeWeek": "1.45%",
-    "uptimeMonth": "1.45%",
-    "uptimeYear": "1.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 857,
     "timeDay": 857,
     "timeWeek": 857,
     "timeMonth": 857,
     "timeYear": 857,
-    "dailyMinutesDown": {
-      "2023-02-22": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "JAMA Service",
@@ -63,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jama-service",
     "status": "down",
-    "uptime": "0.48%",
-    "uptimeDay": "0.48%",
-    "uptimeWeek": "0.48%",
-    "uptimeMonth": "0.48%",
-    "uptimeYear": "0.48%",
+    "uptime": "0.40%",
+    "uptimeDay": "0.40%",
+    "uptimeWeek": "0.40%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "0.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 14
+      "2023-02-22": 15
     }
   },
   {
