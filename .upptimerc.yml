@@ -4,7 +4,11 @@ repo: company-site-uptime # The name of this repository
 
 sites:
   - name: Home Page
-    url: $HOMEPAGE_URL
+    url: $MAIN_SUTE_URL
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 300
     maxResponseTime: 5000
   - name: Chatting Service
     url: $CHAT_URL
