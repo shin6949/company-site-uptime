@@ -108,6 +108,44 @@ sites:
       - 200
       - 302
     maxResponseTime: 5000
+  - name: Air Qulity Bot
+    url: $AIR_QUALITY_BOT_URL
+    expectedStatusCodes:
+      - 200
+      - 404
+    maxResponseTime: 5000
+  - name: Servicer Bot
+    url: $SERVICER_BOT_URL
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: Daily Journal Bot
+    url: $DAILY_JOURNAL_BOT_URL
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: Draw Bot
+    url: $DRAW_BOT_URL
+    expectedStatusCodes:
+      - 200
+      - 404
+    maxResponseTime: 5000
+  - name: Remind Bot
+    url: $REMIND_BOT_URL
+    expectedStatusCodes:
+      - 200
+      - 404
+    maxResponseTime: 5000
+  - name: Info Bot
+    url: $INFO_BOT_URL
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: Openplay Bot
+    url: $OPENPLAY_BOT_URL
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
