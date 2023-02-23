@@ -23,6 +23,14 @@ sites:
       - 301
       - 302
     maxResponseTime: 5000
+  - name: Mail Portal Service
+    url: $MAIL_PORTAL_URL
+    expectedStatusCodes:
+      - 200
+      - 300
+      - 301
+      - 302
+    maxResponseTime: 5000
   - name: Docs Service
     url: $DOCS_URL
     expectedStatusCodes:
