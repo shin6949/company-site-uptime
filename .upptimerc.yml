@@ -77,6 +77,21 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: JAMA Admin Console (TEST)
+    url: $JAMA_ADMIN_SITE_URL
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: JAMA Airgap Service (TEST)
+    url: $JAMA_AIRGAP_SITE_URL
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: JAMA Airgap Admin Console (TEST)
+    url: $JAMA_AIRGAP_ADMIN_SITE_URL
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: OpsHub Service (TEST)
     url: $OPSHUB_URL
     expectedStatusCodes:
