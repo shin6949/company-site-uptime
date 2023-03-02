@@ -1,7 +1,7 @@
 url: $JAMA_AIRGAP_ADMIN_SITE_URL
 status: up
 code: 200
-responseTime: 2912
-lastUpdated: 2023-03-02T03:28:53.580Z
+responseTime: 2176
+lastUpdated: 2023-03-02T04:25:25.574Z
 startTime: Fri Feb 24 2023 08:52:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
