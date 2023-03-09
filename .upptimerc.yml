@@ -105,12 +105,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: CB 21.09 (TEST)
-    url: $CB_2109_TEST_URL
-    expectedStatusCodes:
-      - 200
-      - 302
-    maxResponseTime: 5000
   - name: CB 22.10 (TEST)
     url: $CB_2210_TEST_URL
     expectedStatusCodes:
