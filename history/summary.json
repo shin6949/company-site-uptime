@@ -211,11 +211,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jama-service-test",
     "status": "up",
-    "uptime": "88.67%",
+    "uptime": "88.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.67%",
-    "uptimeYear": "88.67%",
+    "uptimeMonth": "88.68%",
+    "uptimeYear": "88.68%",
     "time": 2269,
     "timeDay": 1883,
     "timeWeek": 2193,
@@ -251,11 +251,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jama-airgap-service-test",
     "status": "up",
-    "uptime": "75.80%",
+    "uptime": "75.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.80%",
-    "uptimeYear": "75.80%",
+    "uptimeMonth": "75.81%",
+    "uptimeYear": "75.81%",
     "time": 2184,
     "timeDay": 1972,
     "timeWeek": 2171,
@@ -276,11 +276,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jama-airgap-admin-console-test",
     "status": "up",
-    "uptime": "80.66%",
+    "uptime": "80.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.66%",
-    "uptimeYear": "80.66%",
+    "uptimeMonth": "80.67%",
+    "uptimeYear": "80.67%",
     "time": 2201,
     "timeDay": 1936,
     "timeWeek": 2236,
@@ -298,9 +298,9 @@
     "url": "$OPSHUB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ops-hub-service-test",
-    "status": "up",
+    "status": "down",
     "uptime": "98.32%",
-    "uptimeDay": "70.76%",
+    "uptimeDay": "70.72%",
     "uptimeWeek": "95.82%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "98.32%",
@@ -310,7 +310,7 @@
     "timeMonth": 485,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2023-03-11": 422
+      "2023-03-11": 423
     }
   },
   {
@@ -356,9 +356,9 @@
     "url": "$CB_2204_TEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cb-22-04-test",
-    "status": "up",
+    "status": "down",
     "uptime": "97.72%",
-    "uptimeDay": "60.32%",
+    "uptimeDay": "60.28%",
     "uptimeWeek": "94.33%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "97.72%",
@@ -368,7 +368,7 @@
     "timeMonth": 513,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2023-03-11": 571
+      "2023-03-11": 572
     }
   },
   {
