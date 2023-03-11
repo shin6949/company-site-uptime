@@ -211,11 +211,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jama-service-test",
     "status": "up",
-    "uptime": "88.79%",
+    "uptime": "88.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.79%",
-    "uptimeYear": "88.79%",
+    "uptimeMonth": "88.80%",
+    "uptimeYear": "88.80%",
     "time": 2266,
     "timeDay": 1848,
     "timeWeek": 2189,
@@ -251,11 +251,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jama-airgap-service-test",
     "status": "up",
-    "uptime": "76.09%",
+    "uptime": "76.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.09%",
-    "uptimeYear": "76.09%",
+    "uptimeMonth": "76.10%",
+    "uptimeYear": "76.10%",
     "time": 2182,
     "timeDay": 1893,
     "timeWeek": 2177,
@@ -298,9 +298,9 @@
     "url": "$OPSHUB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ops-hub-service-test",
-    "status": "up",
+    "status": "down",
     "uptime": "97.40%",
-    "uptimeDay": "54.25%",
+    "uptimeDay": "54.21%",
     "uptimeWeek": "93.46%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "97.40%",
@@ -310,7 +310,7 @@
     "timeMonth": 484,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2023-03-11": 660
+      "2023-03-11": 661
     }
   },
   {
@@ -357,18 +357,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cb-22-04-test",
     "status": "down",
-    "uptime": "96.70%",
-    "uptimeDay": "42.07%",
-    "uptimeWeek": "91.72%",
-    "uptimeMonth": "96.70%",
-    "uptimeYear": "96.70%",
+    "uptime": "96.66%",
+    "uptimeDay": "41.32%",
+    "uptimeWeek": "91.62%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
     "time": 513,
     "timeDay": 474,
     "timeWeek": 511,
     "timeMonth": 513,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2023-03-11": 834
+      "2023-03-11": 845
     }
   },
   {
